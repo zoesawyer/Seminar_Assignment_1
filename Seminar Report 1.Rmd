@@ -1,0 +1,35 @@
+---
+title: "Seminar Report 1"
+output:
+  html_document:
+    df_print: paged
+---
+
+---
+Name: Zoe Sawyer
+
+Seminar Speaker Name: Regina M Carelli, PhD
+Speaker Affiliation: UNC Chapel Hill - Psychology & Neuroscience
+Date and  Time: 09/25/2018 at 4:00pm
+Seminar Title: Neuroscience Graduate Program Seminar Series - Unraveling mechanisms of impaired learning and decision making in addiction
+---
+
+Dr. Carelli's studies investigate how the brain processes information about rewards, and focuses on  instances where the reward is a drug like cocaine. Rewards systems are learned through two main methods: stimulus-outcome associations (classical conditioning) and action-outcome associations (instrumental learning). There are several factors that influence learning reward systems such as the type of reward, the value of the reward to the individual, and the cost of the reward (i.e. risk or effort). There is also a decision making process in the behavior needed to obtain a reward.
+
+The main area of the brain that processes and learns rewards systems is the nucleus accumbens, which is sub-divided into an inner core and an outer shell. The stimulating input to the nucleus accumbens are the chemical signaling molecules glutamate and dopamine, and the output of the neurons that comprise the nucleus accumbens goes toward motor function.
+
+In Dr. Carelli's early research studies, reward learning behavior was investigated in mice to study how they interact with cues to obtain cocaine. The study showed that the neurons of the nucleus accumbens encode distinct aspects of cocaine-seeking. In the experiment, a catheter was implanted in the jugular vein of mice. The mice were  trained to press a lever to receive an IV infusion of cocaine. When  the activity of the neurons in the accumbens was recorded, some cells peaked in  activity when the mouse pressed the lever, not afterwards when the drug was administered like one might predict. Dopamine concentration was also measured in real time, and like the neuronal activity in the accumbens dopamine reached peak levels when the mouse pressed the lever.
+
+This brain activity is not unique to cocaine, similar experiments conducted with a food reward instead of a cocaine reward also show similar results in peak dopamine and peak neuron firing activity. This is in  contrast with the dopamine and and neural activity of mice administered cocaine by the research team (which were not train to self-administer). In these mice, peak occurred after the drug was administered and reflects the body's physiological response to the actual drug instead of the cue preceding the reward. This demonstrates a shift of brain reward response from the reward to the predictive cue. Once the mice learn the cue initiates the onset of the reward, dopamine shifts to the time where they receive the cue.
+
+The key findings of this study were that the accumbens neurons and rapid dopamine signaling are dynamic and can change due to reward cue learning.
+
+In associative learning, there are two types of conditioning available for use on test subjects: first order conditioning (Pavlovian, FOC) and second-order conditioning (SOC). In FOC, the animals learn that the cue signal elicits a condition response which leads to a reward. SOC, a second cue signal is learned that is associated with the first cue signal, so the second cue signal is also associated with the reward.
+
+A later experiment was conducted to study cocaine and associative learning to determine if a past history of cocaine use alters first and/or second order conditioning. In this experiment, one group of mice was trained to self-administer cocaine and a second group of mice was trained to self administer water. Both groups received the reward after pressing a lever. Then, these activities were stopped after one month of allowing self-administration. This mimics the addiction cycle of taking drugs repeatedly then stopping suddenly. Sensors were implanted into the nucleus accumbens. After the 1-month rest period from the self-administration of either cocaine or water, the 2 groups of mice were taught to associate a certain light color (light "A") with receiving food. A different light color (light "B") was paired with no reward. This training, which is first order conditioning, was continued over a 10-day period. Then, second order conditioning was conducted for the following 10 days in which the research team played one audio sound (audio "A") directly preceding light A, which directly preceded the reward of food. The research team paired this with the control setup which was playing a different audio sound (Audio B) with light B which was not followed by a reward. The group of mice originally trained to self-administer water were able to learn the second order conditioning signals and associate Audio A with the food reward. The group of mice originally conditioned to self administer cocaine were unable to learn the second order conditioning - the did not associate sound A with the food reward.
+
+The research team concluded from this study that cocaine prevented SOC, and that history of cocaine use devalued the reward processing ability. When the results of the neuron measurements were analyzed from the study, they found that the control mice (which learned to self administer water) showed brain activity and neural activity peaks at the time of the cues and at the time of the reward. For the cocaine self-administering mice, the dopamine and neural activity peaked only at the time of the reward administration and not at the time of the cues.
+
+Therefore, history of cocaine self administration impairs the ability for animals to learn second order association. And the inability to learn second order conditioning occurs despite the normal ability to learn first order conditioning. Cocaine decreases the cue-related neural representations and abolishes dopamine release in the accumbens during first order conditioning.
+
+Given this information, I would like to know why the nucleus accumbens was chosen for this study of cocaine-seeking behavior in mice and if this part of the brain is most strongly associated with addictive behavior toward drugs or other rewards. Also, I would like to know how other drugs besides cocaine behave in an  identical study. Furthermore, I would like to see how this compares to current literature and even treatments concerning human drug addiction. 
